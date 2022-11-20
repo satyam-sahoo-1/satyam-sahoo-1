@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @satyam-sahoo-1
+- 👀 I’m interested in making things as simple as possible
+- 🌱 I’m currently learning B.tech(CSE) at XIM UNIVERSITY, Bhubaneswar
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :
+- satyamsahoo83388@gmail.com
+- https://www.linkedin.com/in/satyam-sahoo/
+
+
+<!---
+satyam-sahoo-1/satyam-sahoo-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
