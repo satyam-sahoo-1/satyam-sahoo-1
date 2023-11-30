@@ -2,6 +2,7 @@
 - 👀 I’m interested in making things as simple as possible
 - 🌱 I’m currently learning B.tech(CSE) at XIM UNIVERSITY, Bhubaneswar
 - 💞️ I’m looking to collaborate on ...
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-sahoo-1&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-sahoo-1" /> </p>
 - 📫 How to reach me :
 - satyamsahoo83388@gmail.com
 - https://www.linkedin.com/in/satyam-sahoo/
